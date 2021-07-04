@@ -1,13 +1,13 @@
 // -----------------------------------------------------------------------------
 
 // Declarations
-declare name 		"Tape Splicing";
+declare name 		"Time Splicing";
 declare version 	"0.1";
 declare author 		"Luca Spanedda";
 
 
 /*
-TAPE SPLICING:
+TIME SPLICING:
 WRITING AND READING WITH SCATTERING
 ON A FIXED TABLE OF 1 SECOND (TAPE)
 */
