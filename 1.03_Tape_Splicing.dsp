@@ -1,3 +1,19 @@
+// -----------------------------------------------------------------------------
+
+// Declarations
+declare name 		"Tape Splicing";
+declare version 	"0.1";
+declare author 		"Luca Spanedda";
+
+
+/*
+TAPE SPLICING:
+WRITING AND READING WITH SCATTERING
+ON A FIXED TABLE OF 1 SECOND (TAPE)
+*/
+
+// import Standard Faust library
+// https://github.com/grame-cncm/faustlibraries/
 import("stdfaust.lib");
 
 // SCATTERING READER
