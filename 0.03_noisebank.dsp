@@ -1,5 +1,6 @@
 // -----------------------------------------------------------------------------
-// NOISES BANK
+
+// NOISE BANK
 // bank of various noises (range: -1. +1.) with different random numbers
 
     // RANDOM GEN
@@ -69,4 +70,5 @@ noise_19,
 noise_20;
 
 process = noisebank;
+
 // -----------------------------------------------------------------------------
